@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Karan Deep Singh\Documents\Bluetooth Folder\library\HackerNews\build\intermediates\exploded-aar\library\library\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Karan Deep Singh\Documents\Bluetooth Folder\library\HackerNews\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Users\Karan Deep Singh\Documents\Bluetooth Folder\library\HackerNews\build-types\release\assets" />
+    </dataSet>
+
+</merger>
